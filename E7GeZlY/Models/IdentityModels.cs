@@ -42,8 +42,5 @@ namespace E7GeZlY.Models
         public System.Data.Entity.DbSet<E7GeZlY.Models.MyBooking> MyBookings { get; set; }
 
         public System.Data.Entity.DbSet<E7GeZlY.Models.License> Licenses { get; set; }
-
-
-
     }
 }
