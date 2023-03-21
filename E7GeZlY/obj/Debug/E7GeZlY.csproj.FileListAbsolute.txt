@@ -989,7 +989,6 @@ D:\MyGitHubRepos\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xm
 D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.AssemblyReference.cache
 D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
 D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
-D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
 D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
 D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
 D:\MyGitHubRepos\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
